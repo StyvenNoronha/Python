@@ -1,3 +1,3 @@
 from sketchpy import library
-object= library.tom_holland()
-object.draw()
+myObject = library.ironman_ascii()
+myObject.draw()
